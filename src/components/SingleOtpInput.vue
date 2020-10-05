@@ -1,5 +1,5 @@
 <template>
-  <div style="display: flex; align-items: center;">
+  <div>
     <input
       ref="input"
       :type="inputType"

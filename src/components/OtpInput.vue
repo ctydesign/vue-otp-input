@@ -1,5 +1,5 @@
 <template>
-  <div style="display: flex">
+  <div>
 <!--    To turn off autocomplete when otp-input is password-->
     <input v-if="inputType === 'password'"
            autocomplete="off"
